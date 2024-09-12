@@ -1,0 +1,8 @@
+[package]
+name = "fire_simulation"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+crossterm = "0.21"
+rand = "0.8"
